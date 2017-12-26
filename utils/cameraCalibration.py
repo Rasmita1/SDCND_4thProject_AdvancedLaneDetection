@@ -4,7 +4,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import math
 
-
 def get_calibration_matrix(path):
     """Returns camera calibration matrix using
     chessboard images in given glob path
