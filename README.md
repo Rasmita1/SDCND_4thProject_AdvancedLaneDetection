@@ -16,3 +16,11 @@ The goals / steps of this project are the following:
   I have used the codes present in the the sdcnd and referred the open forum portals. 
   
   
+  The Project contains the below folders/files,
+  1. AdvancedLaneDetection_Main.ipynb - Main script
+  2. output_images - All the output images are saved in this folder
+  3. project_video.mp4 - The input video file used in the script 
+  4. project_video_output.mp4 - The generated output video file
+  5. utils - Folder contains all the code
+  
+  
