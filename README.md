@@ -1,5 +1,7 @@
 # SDCND_4thProject_AdvancedLaneDetection
 
+Project: Advanced Lane detection i.e. to detect the lanes and shade the areas between the identified lanes from the input video stream
+
 The goals / steps of this project are the following:
   1. Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
   2. Apply a distortion correction to raw images.
@@ -9,3 +11,5 @@ The goals / steps of this project are the following:
   6. Determine the curvature of the lane and vehicle position with respect to center.
   7. Warp the detected lane boundaries back onto the original image.
   8. Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
+  
+  
